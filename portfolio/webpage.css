@@ -1,0 +1,16 @@
+body{
+    margin:0px;
+    background-color: palegreen;
+}
+
+.heading{
+    text-align: center;
+    /*text-decoration: dashed;
+    text-decoration-line: underline;
+    text-decoration-color: black;*/
+    font-size: 30px;
+}
+
+button{
+    font-size: 25px;
+}
